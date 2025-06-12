@@ -24,13 +24,16 @@ Due to size limitations, the dataset is not included in this repository but can 
 
 ## Key Visualizations
 ### Confusion Matrix
-*(Insert Image)*
+![Confusion_matrix](https://github.com/user-attachments/assets/869bad60-f319-4e71-afab-e9eb173ae6a6)
+
+### Feature Correleation
+![feature_correlation](https://github.com/user-attachments/assets/0f47f1df-19ec-4518-8a7d-20a792a29e47)
 
 ### Feature Importance
-*(Insert Image)*
+![importance_score](https://github.com/user-attachments/assets/5878bd0e-50f7-45e9-ba30-fe59d5463531)
 
 ### ROC Curve
-*(Insert Image)*
+![roc_curve](https://github.com/user-attachments/assets/321351b3-d85a-4a7f-bfca-9e60c6d50209)
 
 ## 🔧 How to Run
 1. Clone the repo.
