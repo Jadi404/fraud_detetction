@@ -35,7 +35,7 @@ Due to size limitations, the dataset is not included in this repository but can 
 ### ROC Curve
 ![roc_curve](https://github.com/user-attachments/assets/321351b3-d85a-4a7f-bfca-9e60c6d50209)
 
-## 🔧 How to Run
+## How to Run
 1. Clone the repo.
 2. Install dependencies:
 ```bash
