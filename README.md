@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection
 
-This project uses machine learning to detect fraudulent credit card transactions. The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
+This project uses a machine learning approach to detect fraudulent credit card transactions. Using a Random Forest Classifier, we trained and evaluated a model to predict the likelihood of fraud based on provided transaction features. The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
 
 ## Project Overview
 - Preprocessed and scaled features for balanced model input.
@@ -34,6 +34,14 @@ Due to size limitations, the dataset is not included in this repository but can 
 
 ### ROC Curve
 ![roc_curve](https://github.com/user-attachments/assets/321351b3-d85a-4a7f-bfca-9e60c6d50209)
+
+## Key Results
+The confusion matrix has identified:
+    - True Negatives: 56,619
+    - True Positives: 55,495
+    - False Negatives: 1,481
+    - False Positives: 131
+The ROC score is sitting at 1.00, this indicates that the model can differentiate between fraudulent and non-fraudulent transactions in the dataset, with extreme accuracy. 
 
 ## How to Run
 1. Clone the repo.
