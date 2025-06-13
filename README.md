@@ -37,10 +37,10 @@ Due to size limitations, the dataset is not included in this repository but can 
 
 ## Key Results
 The confusion matrix has identified:
-    - True Negatives: 56,619
-    - True Positives: 55,495
-    - False Negatives: 1,481
-    - False Positives: 131
+- True Negatives: 56,619
+- True Positives: 55,495
+- False Negatives: 1,481
+- False Positives: 131
 The ROC score is sitting at 1.00, this indicates that the model can differentiate between fraudulent and non-fraudulent transactions in the dataset, with extreme accuracy. 
 
 ## How to Run
